@@ -1,1 +1,1 @@
-# Krushimitra
+# KrushiMitra
